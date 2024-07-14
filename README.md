@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0m1-dev&label=Profile%20views&color=0e75b6&style=flat" alt="c0m1-dev" /> </p>
 
-- 🔭 I’m currently working on **I’m either catching some Z's 😴 or deep into coding on my laptop 👨‍💻.**
+- 🔭 I’m currently working on ** either catching some Z's 😴 or deep into coding on my laptop 👨‍💻.**
 
-- 👯 I’m looking to collaborate on **I’m open to collaborating on fun and innovative projects! Let’s create something awesome together!**
+- **I’m open to collaborating on fun and innovative projects! Let’s create something awesome together!**
 
 - 💬 Ask me about **Nothing dahh**
 
-- ⚡ Fun fact **My genius 💡 often stems from my strategic laziness 😴. 
+- ⚡ Fun fact
+- **My genius 💡 often stems from my strategic laziness 😴. 
 - I’m a proud **Golden Retriever** (at heart)! 🐶 Just kidding… or am I?
 - **Cybersecurity Lover**: I like to think of myself as a digital superhero🦸🏻, fighting bugs and vulnerabilities like they owe me money! 💸💻
 
