@@ -12,7 +12,7 @@
 - ⚡ Fun fact **My genius 💡 often stems from my strategic laziness 😴. 
 - I’m a proud **Golden Retriever** (at heart)! 🐶 Just kidding… or am I?
 - **Cybersecurity Lover**: I like to think of myself as a digital superhero ### My Superhero Moment 🦸‍♂️
-![Superman](https://media.giphy.com/media/3o72Fmj5tYokx7Hn5W/giphy.gif)
+![Superman](<iframe src="https://giphy.com/embed/10bKPDUM5H7m7u" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/superman-vintage-cartoon-10bKPDUM5H7m7u">via GIPHY</a></p>)
 , fighting bugs and vulnerabilities like they owe me money! 🦸‍♂️💻
 
 <h3 align="left">Connect with me:</h3>
