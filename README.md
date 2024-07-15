@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0m1-dev&label=Profile%20views&color=0e75b6&style=flat" alt="c0m1-dev" /> </p>
 
 
-- 🔭 I’m currently working on  either catching some Z's 😴 or deep into coding on my laptop 👨‍💻. ㅤㅤㅤ ![3bdff214c118efd4570a96f8cd0f876d-ezgif com-resize (1)](https://github.com/user-attachments/assets/35ffbe70-0791-48f6-82f5-082eb618a20e)
+- 🔭 I’m currently working on  either catching some Z's 😴 or deep into coding on my laptop 👨‍💻. ㅤㅤㅤ![3bdff214c118efd4570a96f8cd0f876d-ezgif com-loop-count](https://github.com/user-attachments/assets/f81fadb9-1ed5-4da6-b9ce-ecb65252c3a7)
+
 - **I’m open to collaborating on fun and innovative projects! Let’s create something awesome together!**
 - 💬 Ask me about **Nothing dahh**
 - ⚡ Fun fact
