@@ -2,7 +2,6 @@
 <h3 align="center">Welcome to my corner of GitHub! A passionate Software Developer and Cybersecurity Lover on a journey to learn, create, and innovate. 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0m1-dev&label=Profile%20views&color=0e75b6&style=flat" alt="c0m1-dev" /> </p>
-![3bdff214c118efd4570a96f8cd0f876d-ezgif com-loop-count](https://github.com/user-attachments/assets/a2227a45-7b39-429e-b19d-f3988290b51d)
 
 
 - 🔭 I’m currently working on  either catching some Z's 😴 or deep into coding on my laptop 👨‍💻.
