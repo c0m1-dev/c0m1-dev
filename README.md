@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0m1-dev&label=Profile%20views&color=0e75b6&style=flat" alt="c0m1-dev" /> </p>
 
-                                                                                                                                                                       ![mocha](https://github.com/user-attachments/assets/9229e67a-75d6-4b18-adbb-74b340127a44)
+                                                                                                                                    ![mocha](https://github.com/user-attachments/assets/9229e67a-75d6-4b18-adbb-74b340127a44)
+
 
 
 - 🔭 I’m currently working on  either catching some Z's 😴 or deep into coding on my laptop 👨‍💻.
