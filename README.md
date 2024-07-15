@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on  either catching some Z's 😴 or deep into coding on my laptop 👨‍💻.
 - **I’m open to collaborating on fun and innovative projects! Let’s create something awesome together!**
 - 💬 Ask me about **Nothing dahh**
-- ⚡ Fun fact                                                                                                                                                        ![3bdff214c118efd4570a96f8cd0f876d-ezgif com-resize (1)](https://github.com/user-attachments/assets/35ffbe70-0791-48f6-82f5-082eb618a20e)
+- ⚡ Fun factㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![3bdff214c118efd4570a96f8cd0f876d-ezgif com-resize (1)](https://github.com/user-attachments/assets/35ffbe70-0791-48f6-82f5-082eb618a20e)
 - **My genius** 💡 often stems from my strategic **laziness** 😴.  
 - I’m a proud **Golden Retriever** (at heart)! 🐶 Just kidding… or am I?
 - **Cybersecurity Lover**: I like to think of myself as a digital superhero,![cartoon-beatbox-battles-batman-ezgif com-crop](https://github.com/user-attachments/assets/41c4dbdb-c57e-4ed9-b91a-c25c671c6dc2), fighting bugs and vulnerabilities like they owe me money! 💸💻🦸🏻
