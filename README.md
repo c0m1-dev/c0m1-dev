@@ -1,7 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Skajpi YaaBoii</h1>
 <h3 align="center">Welcome to my corner of GitHub! A passionate Software Developer and Cybersecurity Lover on a journey to learn, create, and innovate. 💻✨</h3>
-![mocha](https://github.com/user-attachments/assets/9229e67a-75d6-4b18-adbb-74b340127a44)
-
 
 
 
@@ -9,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on  either catching some Z's 😴 or deep into coding on my laptop 👨‍💻.
+- 🔭 I’m currently working on  either catching some Z's 😴 or deep into coding on my laptop 👨‍💻.                                  ![mocha](https://github.com/user-attachments/assets/9229e67a-75d6-4b18-adbb-74b340127a44)
 
 - **I’m open to collaborating on fun and innovative projects! Let’s create something awesome together!**
 
