@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0m1-dev&label=Profile%20views&color=0e75b6&style=flat" alt="c0m1-dev" /> </p>
 
-                                                                                                                                    ![mocha](https://github.com/user-attachments/assets/9229e67a-75d6-4b18-adbb-74b340127a44)
-
-
 
 - 🔭 I’m currently working on  either catching some Z's 😴 or deep into coding on my laptop 👨‍💻.
 - **I’m open to collaborating on fun and innovative projects! Let’s create something awesome together!**
 - 💬 Ask me about **Nothing dahh**
-- ⚡ Fun fact
-- **My genius** 💡 often stems from my strategic **laziness** 😴. 
+- ⚡ Fun fact              
+- **My genius** 💡 often stems from my strategic **laziness** 😴.  ![mocha](https://github.com/user-attachments/assets/9229e67a-75d6-4b18-adbb-74b340127a44)
+
 - I’m a proud **Golden Retriever** (at heart)! 🐶 Just kidding… or am I?
 - **Cybersecurity Lover**: I like to think of myself as a digital superhero,![cartoon-beatbox-battles-batman-ezgif com-crop](https://github.com/user-attachments/assets/41c4dbdb-c57e-4ed9-b91a-c25c671c6dc2), fighting bugs and vulnerabilities like they owe me money! 💸💻🦸🏻
 
