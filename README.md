@@ -12,7 +12,7 @@
 - ⚡ Fun fact
 - **My genius 💡 often stems from my strategic laziness 😴. 
 - I’m a proud **Golden Retriever** (at heart)! 🐶 Just kidding… or am I?
-- **Cybersecurity Lover**: I like to think of myself as a digital superhero🦸🏻, fighting bugs and vulnerabilities like they owe me money! 💸💻
+- **Cybersecurity Lover**: I like to think of myself as a digital superhero🦸🏻 ![cartoon-beatbox-battles-batman-ezgif com-resize](https://github.com/user-attachments/assets/28b8ffb7-b32e-4d02-8c13-229b9e363410), fighting bugs and vulnerabilities like they owe me money! 💸💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
